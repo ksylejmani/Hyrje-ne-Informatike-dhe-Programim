@@ -1,5 +1,4 @@
 public class PerdorimiPica {
-
     public static void main(String[] args) {
         Pica p=new Pica();
         p.cakto_vlerat();
@@ -8,6 +7,5 @@ public class PerdorimiPica {
         p.setPerimetri(190);
         p.shtyp();
         System.out.println("Perimetri ne njesine meter eshte: "+p.konverto());
-    }
-    
+    }   
 }
